@@ -1,0 +1,5 @@
+/maven-task/taskrepo/src/test/java/com/visualpathit/account/modelTest/RoleTest.java
+/maven-task/taskrepo/src/test/java/com/visualpathit/account/modelTest/UserTest.java
+/maven-task/taskrepo/src/test/java/com/visualpathit/account/controllerTest/SampleTest.java
+/maven-task/taskrepo/src/test/java/com/visualpathit/account/controllerTest/UserControllerTest.java
+/maven-task/taskrepo/src/test/java/com/visualpathit/account/setup/StandaloneMvcTestViewResolver.java
